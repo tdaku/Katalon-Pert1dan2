@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>RegisterFailed</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>6e17297c-c186-4be3-8bf2-ed1772648ae8</testCaseGuid>
-</TestCaseEntity>
