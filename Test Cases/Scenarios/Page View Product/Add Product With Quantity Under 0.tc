@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Product With Quantity Under 0</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c52175c-9a5a-4ff6-9aa2-e56d20cdf159</testCaseGuid>
+</TestCaseEntity>

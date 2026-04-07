@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Basket With Quantity Under 0</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56aa2275-f9f8-42de-9856-4599bdbc78a8</testCaseGuid>
+</TestCaseEntity>

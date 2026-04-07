@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Wrong Coupun Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b85b5f2d-3878-4c05-905a-1680fea76a71</testCaseGuid>
+</TestCaseEntity>

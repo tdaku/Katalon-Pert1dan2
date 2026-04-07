@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_product</name>
+   <tag></tag>
+   <elementGuidId>fbc22f7b-0709-45c1-bea7-57d703d0f60c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-169']/div[2]/div[2]/div/div/div/p/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.google-anno-t</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Android 4.4&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>542da965-9e6a-4592-8588-0b21fd8bb70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>google-anno-t</value>
+      <webElementGuid>4eb68d96-06df-4894-b68f-ba9b7b91bc28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Android 4.4</value>
+      <webElementGuid>8663215f-338a-43cb-bf3d-aa75980586a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-169&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/div[@class=&quot;page&quot;]/div[@class=&quot;layoutArea&quot;]/div[@class=&quot;column&quot;]/p[1]/a[@class=&quot;google-anno&quot;]/span[@class=&quot;google-anno-t&quot;]</value>
+      <webElementGuid>5d65e9bf-ec6d-4e72-8a7f-f71f59d3a93f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-169']/div[2]/div[2]/div/div/div/p/a/span</value>
+      <webElementGuid>364bf5ff-3867-4b32-83b2-07d1c7dc5ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/following::span[1]</value>
+      <webElementGuid>2f010bfb-cd66-47f9-a2af-ae6d91c13664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::span[3]</value>
+      <webElementGuid>c7593782-4819-490f-99c2-fba537fff8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='operating system'])[1]/preceding::span[1]</value>
+      <webElementGuid>071d297a-7985-4b91-8900-abb2c603444a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mobile phones'])[1]/preceding::span[2]</value>
+      <webElementGuid>c6986a02-071f-4b97-8d7b-48eb85dbe5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Android 4.4']/parent::*</value>
+      <webElementGuid>9ab16f1e-728e-4e25-b504-35ed833688a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a/span</value>
+      <webElementGuid>2ab652b0-c1d3-4a4a-b842-196ca4827803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Android 4.4' or . = 'Android 4.4')]</value>
+      <webElementGuid>c10b98c4-8f0e-45a5-b5b7-33aa6dd50345</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

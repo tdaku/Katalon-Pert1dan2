@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC0004_AddtoBasket_Record</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>206ac41f-2898-4031-801a-382bf8df4b8f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Product To Basket With Valid Quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5429fb52-5d21-4d18-b4ab-ea4942426f21</testCaseGuid>
+</TestCaseEntity>
